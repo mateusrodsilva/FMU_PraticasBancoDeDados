@@ -1,0 +1,15 @@
+.carousel-inner{
+    height: 35rem;
+}
+.card img{
+    max-width: 21rem;
+    max-height: 20rem;
+}
+
+.card-group{
+    margin-top: 2rem;
+}
+
+#titulo_formulario{
+    
+}
